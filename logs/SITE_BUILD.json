@@ -1,0 +1,19 @@
+{
+  "site_name": "숨고르기",
+  "design": "style-01",
+  "districts": 25,
+  "neighborhoods": 427,
+  "shops": 5,
+  "shop_pages": 2260,
+  "html_pages": 2713,
+  "image_pool": 44,
+  "images_per_page": 5,
+  "image_layout": "1 large + 4 compact",
+  "image_storage": "shared-pool-fast-mode",
+  "general_seo_count": 452,
+  "shop_seo_count": 2260,
+  "output": "E:\\seoul\\숨고르기-seoul\\output\\site",
+  "promotion_verified": true,
+  "final_index": "E:\\seoul\\숨고르기-seoul\\output\\site\\index.html",
+  "final_html_verified": 2713
+}
