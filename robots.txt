@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soom-metro.netlify.app/sitemap.xml
